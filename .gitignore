@@ -1,3 +1,5 @@
 venv
 dist
 ropy1.egg-info
+*.pyc
+*.pyo
